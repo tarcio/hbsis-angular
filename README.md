@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install
 
 Clone the project and run `npm install` to download all dependencies.  
-Change `src/assets/config.ts` to point to correct hbsis-java.
+Change `src/assets/config.ts` to point to correct hbsis-java. By default, it looks in `localhost:8080`.
 
 ## Development server
 
