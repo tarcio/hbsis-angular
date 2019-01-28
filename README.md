@@ -1,16 +1,19 @@
 # HBSIS - Angular
 
-Get the weather of cities using the public api Open Weather.<br />
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
-## Getting Started
+## Development server
 
-This project was developed in  Angular.<br />
-It's recommended to use @angular/cli to run/build.<br />
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-"ng serve --open" to run the project.<br />
-"ng build" to build.<br />
+## Build
 
-## Built with
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
--   [Angular](https://angular.io)
--   [Angular Material](https://material.angular.io)
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## TODO
+
+Better Test classes; Improve tables; Better handler for services;
