@@ -1,0 +1,15 @@
+mat-form-field, table, table button {
+	width: 100%;
+}
+
+button {
+	min-width: 150px;
+}
+
+.th-id, .th-weather {
+	width: 25%;
+}
+
+.th-city {
+	width: 50%;
+}
