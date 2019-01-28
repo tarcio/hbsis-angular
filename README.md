@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install
 
-Clone the project and run `npm install` to download all dependencies.
+Clone the project and run `npm install` to download all dependencies.  
+Change `src/assets/config.ts` to point to correct hbsis-java.
 
 ## Development server
 
